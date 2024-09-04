@@ -14,12 +14,13 @@
 
 ## Insights Observed
 
-### 1. Revenue
+### Revenue
 - **Total Revenue:** $827,860 was the observed revenue for the given dataset.
 - **Key Influencers:**
   - **Order by Day:** While the dataset lacks cumulative analysis over time, further investigation into which days of the week contribute most to revenue can be explored.
   - **Pizza Type:** The **Greek Pizza** stands out as the most popular and highest-selling pizza type.
   - **Pizza Size:** Across all pizza types, the **Large** size is the best-selling.
+- Refer the pizzapal insights.pptx for more insights.
 
 ## Datasets that has been worked on:
 - order_details.csv
